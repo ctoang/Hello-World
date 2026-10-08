@@ -14,7 +14,7 @@ Week 6 - Fall 26 - BAIS 3050 - GitHub
 Hello_World\
 └──\
     │── README.md\
-    │── GitHub Repository Setup Instructions.docx\
+    │── GitHub Repository Setup Instructions.docx
     │── Week 6 - Fall 26 - BAIS3050 - GitHub.pptx
 ```
 # Additional Information 

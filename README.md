@@ -1,5 +1,5 @@
 # Hello-World 
-My first practice repository assignment. :EMOJICODE😄
+My first practice repository assignment. :EMOJICODE:smile
 # Project Title
 "Hello world sample - My First Repository"
 # Description

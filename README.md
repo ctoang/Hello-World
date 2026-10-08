@@ -11,9 +11,9 @@ GitHub Repository Setup Instructions
 Week 6 - Fall 26 - BAIS 3050 - GitHub
 # How to Run Program
 Hello_World/
-└── 
-    │── README.md
-    │── GitHub Repository Setup Instructions.docx
+└── /
+    │── README.md/
+    │── GitHub Repository Setup Instructions.docx/
     │── Week 6 - Fall 26 - BAIS3050 - GitHub.pptx
 # Additional Information 
 **There is no additional information for this repository.**

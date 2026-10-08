@@ -18,4 +18,4 @@ Hello_World\
     │── Week 6 - Fall 26 - BAIS3050 - GitHub.pptx
 ```
 # Additional Information 
-There is no additional information for this repository.
+**There is no additional information for this repository.**
